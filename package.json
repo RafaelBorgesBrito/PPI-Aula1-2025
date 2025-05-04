@@ -1,0 +1,24 @@
+{
+  "name": "ppi-aula1-2025",
+  "version": "1.0.0",
+  "description": "aula 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelBorgesBrito/PPI-Aula1-2025.git"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelBorgesBrito/PPI-Aula1-2025/issues"
+  },
+  "homepage": "https://github.com/RafaelBorgesBrito/PPI-Aula1-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
